@@ -1,0 +1,152 @@
+@CHARSET "UTF-8";
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: Georgia;
+  font-size: 14px;
+  background: #CFCFCF no-repeat center 50px;
+}
+.mod_custom_04 #page {
+  width: 1000px;
+  margin: 20px auto;
+}
+.mod_custom_04 a {
+  color: #5C7F99;
+  text-decoration: none;
+}
+.mod_custom_04 a:hover {
+  text-decoration: underline;
+}
+.mod_custom_04 code {
+  color: #0101C8;
+  background-color: #FFF;
+  padding: 20px;
+  display: block;
+  -moz-border-radius: 5px;
+}
+.mod_custom_04 h3 {
+  font-size: 16px;
+}
+.mod_custom_04 .subMenu {
+  clear: both;
+}
+.mod_custom_04 .subMenu a {
+  padding: 5px;
+  background-color: #ccc;
+  color: #3D0017;
+  text-decoration: none;
+  float: left;
+}
+.mod_custom_04 .subMenu a:hover {
+  background-color: #333;
+}
+.mod_custom_04 .dyn {
+  background-color: yellow;
+}
+.mod_custom_04 .comment {
+  color: #808000;
+}
+.mod_custom_04 #doc,
+.mod_custom_04 #note,
+.mod_custom_04 #spread,
+.mod_custom_04 #examples {
+  padding-top: 40px;
+  line-height: 20px;
+  clear: both;
+}
+.mod_custom_04 #head {
+  float: left;
+  width: 363px;
+  padding: 0 50px;
+  font-size: 16px;
+}
+.mod_custom_04 #head h1 {
+  font-size: 35px;
+}
+.mod_custom_04 #head h1 small {
+  font-size: 22px;
+}
+.mod_custom_04 #head .download a,
+.mod_custom_04 #examples .exampleMenu a {
+  -moz-border-radius: 5px;
+  font-style: italic;
+  font-size: 16px;
+  background-color: #9b9b9b;
+  color: white;
+  padding: 5px 10px;
+  width: 200px;
+  margin: 5px;
+  display: block;
+}
+.mod_custom_04 #head .download a:hover,
+.mod_custom_04 #examples .exampleMenu a:hover,
+.mod_custom_04 .exampleActive {
+  background-color: #474747 !important;
+  text-decoration: none;
+}
+.mod_custom_04 #examples #exampleSimple,
+.mod_custom_04 #examples code,
+.mod_custom_04 #examples .exampleMenu,
+.mod_custom_04 #examples #exampleMulti {
+  float: left;
+}
+.mod_custom_04 #examples .exampleMenu {
+  width: 150px;
+}
+.mod_custom_04 #examples .exampleMenu {
+  padding-top: 20px;
+}
+.mod_custom_04 #examples .exampleMenu a {
+  display: block;
+  font-size: 14px;
+  width: 115px;
+}
+.mod_custom_04 #examples code {
+  display: none;
+  width: 310px;
+  background: none;
+  float: left;
+}
+.mod_custom_04 #examples h2 {
+  padding-bottom: 10px;
+}
+.mod_custom_04 #ftHolder {
+  width: 500px;
+  float: left;
+  text-align: center;
+  height: 332px;
+  padding-top: 90px;
+}
+.mod_custom_04 #ft {
+  border: 5px solid #BAD340;
+  -moz-border-radius: 5px;
+}
+.mod_custom_04 #example {
+  float: left;
+}
+.mod_custom_04 .ft-title {
+  padding: 10px 10px;
+  width: 480px;
+  text-align: left;
+}
+.mod_custom_04 .topbar h2 {
+  font-weight: normal !important;
+}
+.mod_custom_04 .topbar a {
+  color: #3399cc;
+  text-decoration: none;
+}
+.mod_custom_04 .topbar a:hover {
+  text-decoration: underline;
+}
+.mod_custom_04 .ft-prev,
+.mod_custom_04 .ft-next {
+  background-color: #000;
+  padding: 0 10px;
+}
+.mod_custom_04 .ft-button-ft-active {
+  color: black;
+}
+.mod_custom_04 .row {
+  padding: 25px 170px;
+}
