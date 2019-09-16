@@ -213,7 +213,7 @@
 		<h2 style="float: right; margin: 0">
 			<a href="#">This is demo page for jqFancyTransitions plugin. Read more details on workshop.rs</a>
 		</h2>
-	
+	</div>
 	</div>
 </div>
 	

@@ -1,11 +1,14 @@
 <!DOCTYPE html >
+<html lang="en">
 <head>
 
+ <meta charset="UTF-8">
 
-<script src="js/jquery-1.4.2.min.js" type="text/javascript"></script>
-<script src="js/jqFancyTransitions.1.8.min.js" type="text/javascript"></script>
-<a href="css/bootstrap.css.map"></a>
-<a href="css/bootstrap.min.css.map"></a>
+<script src="js/jquery-1.4.2.min.js"></script>
+<script src="js/jqFancyTransitions.1.8.min.js"></script>
+ <link href="css/bootstrap.css.map" rel="stylesheet" type="text/css" />
+ <link href="css/bootstrap.min.css.map" rel="stylesheet" type="text/css" />                
+
 <?php
         if (!class_exists('lessc')) {
             include ( './libs/lessc.inc.php');
@@ -16,19 +19,9 @@
         <link href="css/style.css" rel="stylesheet" type="text/css" />
 <title>Mod_CusTom_04</title>
 </head>
-<body> 
+<body>
+<div class="container">
 <div class="mod_custom_04">
-<div class="topbar" style="font-family: tahoma, verdana, arial; background-color: #333; padding: 10px; overflow: auto; zoom: 1; color: white;">
-	<div style="width: 1000px; margin: 0 auto; ">
-	
-		<h2 style="float: left; margin: 0;">Workshop.rs</h2>
-		
-		<h2 style="float: right; margin: 0">
-			<a href="#">This is demo page for jqFancyTransitions plugin. Read more details on workshop.rs</a>
-		</h2>
-	
-	</div>
-</div >
 
 <div class="row">
     
@@ -56,7 +49,6 @@
         </div>
 
 <div id="ftHolder">
-
 	<div id="ft">
             <div class="col-md-6">
             <img src="image/terrace_view_marko_manojlovic.jpg" 
@@ -72,12 +64,10 @@
 			 alt="Blue Window <i><a href='#'>by Igor Srdanovic</a></i>" />
 		<a href='#'></a>
 	</div>
-	
 </div>
     </div>
 </div>
 
-<br clear="all" />
 
 <script>
 
@@ -85,8 +75,6 @@
 
 </script>
 
-
-<br clear="all" />
 <div class="row">
     
 <div id="examples">
@@ -196,27 +184,6 @@
 		});	
 		
 	</script>
-	
-	
-
-
-<br clear="all" />
-
-
-<br clear="all" />
-
-<div class="topbar" style="font-family: tahoma, verdana, arial; background-color: #333; padding: 10px; overflow: auto; zoom: 1; color: white;">
-	<div style="width: 1000px; margin: 0 auto; ">
-	
-		<h2 style="float: left; margin: 0;">Workshop.rs</h2>
-		
-		<h2 style="float: right; margin: 0">
-			<a href="#">This is demo page for jqFancyTransitions plugin. Read more details on workshop.rs</a>
-		</h2>
-	
-	</div>
-</div>
-	
 </div>
 </div>
 </body>
