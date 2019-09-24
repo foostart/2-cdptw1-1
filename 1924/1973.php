@@ -27,6 +27,6 @@ $less->compileFile('less/1973.less', 'css/1973.css');
         <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet">       
     </head> 
     <body> 
-        <?php include '../1973/1973-content.php'; ?>
+        <?php include '../1924/1973-content.php'; ?>
     </body>
 </html>

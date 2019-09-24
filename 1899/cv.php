@@ -1,26 +1,22 @@
 ﻿<!DOCTYPE html>
-<html>
-
-
-    <!-- Mirrored from www.trongdev.com/cv.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 May 2019 01:06:21 GMT -->
-    <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<html lang="en">
     <head>
         <meta charset="UTF-8">
         <title>CV</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <script src="js/jquery-3.1.1.min.js" type="text/javascript"></script>
-        <script src="js/myscript.html" type="text/javascript"></script>
+        <script src="js/jquery-3.1.1.min.js"></script>
+       <!--  <script src="js/myscript.html"></script> -->
         <link href="css/reset.css" rel="stylesheet" type="text/css" />
 
         <link href="css/style.css" rel="stylesheet" type="text/css" />
+        <link href="css/style2.css" rel="stylesheet" type="text/css" />
         <link href="css/responsive.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 
     </head>
-
     <body>
         <div class="cv">
             <div class="container">
@@ -37,15 +33,14 @@
                 </header>
                 <div class="content">
                     <section>
-
-                        <!--                   about-->
+                        <h1>CONTENT</h1>
                         <article>
                             <div class="title-ar">
                                 <div class="icon-title">
-                                    <img src="images/man-user.png">
+                                    <img src="images/man-user.png" alt="">
                                 </div>
                                 <div class="text-title">
-                                    ABOUT ME
+                                    <h6>ABOUT ME</h6>
                                     <div class="gach"></div>
                                 </div>
                             </div>
@@ -61,15 +56,13 @@
                                 </ul>
                             </div>
                         </article>
-
-                        <!--                    education-->
                         <article>
                             <div class="title-ar">
                                 <div class="icon-title">
-                                    <img src="images/college-graduation.png">
+                                    <img src="images/college-graduation.png" alt="">
                                 </div>
                                 <div class="text-title">
-                                    EDUCATION
+                                    <h6>EDUCATION</h6>
                                     <div class="gach"></div>
                                 </div>
                             </div>
@@ -82,8 +75,8 @@
                                         <p id="school">
                                             THU DUC COLLEGE OF TECHNOLOGY
                                         </p>
+                                        <h2>Net Developer</h2>
                                         <span class="time">2016-2019</span>
-                                        <h1>.Net Developer</h1>
                                         <ul>
                                             <li>Learning  Csharp, HTML, CSS, JavaScript, JQuery.</li>
                                             <li>Learning database manager and deep understanding about table data, relationship tables.</li>
@@ -94,21 +87,19 @@
                                 </div>
                             </div>
                         </article>
-
-                        <!--                    skills-->
                         <article>
                             <div class="title-ar">
                                 <div class="icon-title">
-                                    <img src="images/creative.png">
+                                    <img src="images/creative.png" alt="">
                                 </div>
                                 <div class="text-title">
-                                    Skills
+                                    <h6>Skills</h6>
                                     <div class="gach"></div>
                                 </div>
                             </div>
                             <div class="content-ar skills">
                                 <div class="item-skills">
-                                    <h1>PROGRAMMING LANGUAGES</h1>
+                                    <div class="chu">PROGRAMMING LANGUAGES</div>
                                     <ul>
                                         <li><span>HTML, CSS(LESS)</span></li>
                                         <li><span>JavaScript</span></li>
@@ -117,7 +108,7 @@
                                 </div>
 
                                 <div class="item-skills">
-                                    <h1>FRAMEWORKS & PLATFORMS</h1>
+                                    <div class="chu">FRAMEWORKS & PLATFORMS</div>
                                     <ul>
                                         <li><span>Entity Framework Core</span></li>
                                         <li><span>Prism</span></li>
@@ -126,7 +117,7 @@
                                 </div>
 
                                 <div class="item-skills">
-                                    <h1>DBMS</h1>
+                                    <div class="chu">DBMS</div>
                                     <ul>
                                         <li><span>MySQLi</span></li>
                                         <li><span>SQL Server</span></li>
@@ -135,7 +126,7 @@
                                 </div>
 
                                 <div class="item-skills">
-                                    <h1>VERSION CONTROL</h1>
+                                    <div class="chu">VERSION CONTROL</div>
                                     <ul>
                                         <li><span>Git (Git Shell & Github  & GitLab)</span></li>
                                         <li><span>Source Tree</span></li>
@@ -144,7 +135,7 @@
                                 </div>
 
                                 <div class="item-skills">
-                                    <h1>IDE, TOOL</h1>
+                                    <div class="chu">IDE, TOOL</div>
                                     <ul>
                                         <li><span>Visual Studio</span></li>
                                         <li><span>NetBeans</span></li>
@@ -154,29 +145,26 @@
                                 </div>
 
                                 <div class="item-skills">
-                                    <h1>KNOWLEDGE</h1>
+                                    <div class="chu">KNOWLEDGE</div>
                                     <ul>
                                         <li><span>Understanding about API, MVVM, OOP, MVC </span></li>
                                     </ul>
                                 </div>
                             </div>
                         </article>
-
-
-                        <!--                    demo-->
                         <article>
                             <div class="title-ar">
                                 <div class="icon-title">
-                                    <img src="images/web-design.png">
+                                    <img src="images/web-design.png" alt="">
                                 </div>
                                 <div class="text-title">
-                                    PROJECTS
+                                    <h6>PROJECTS</h6>
                                     <div class="gach"></div>
                                 </div>
                             </div>
                             <div class="content-ar projects">
                                 <p style="font-weight: bold;">Website:
-                                    <a href="http://el.tdc.edu.vn/">http://quandanymiendong.vn/</a>
+                                    <a href="#">http://quandanymiendong.vn/</a>
                                 </p>
                                 <ul>
                                     <li>
@@ -237,15 +225,10 @@
                                 </p>
                             </div>
                         </article>
-
-
-
-
-                        <!--                    experiences-->
                         <article>
                             <div class="title-ar">
                                 <div class="icon-title">
-                                    <img src="images/manager.png">
+                                    <img src="images/manager.png" alt="" >
                                 </div>
                                 <div class="text-title">
                                     Experiences
@@ -256,7 +239,7 @@
                                 <div class="item-ex">
 
                                     <div class="content-ex">
-                                        <h1>Collaborators</h1>
+                                        Collaborators
                                         <span class="time-ex">10/2018 - 5/2019</span>
                                         <h2>Backend Developer</h2>
                                         <ul>
@@ -267,27 +250,23 @@
                                 </div>
                             </div>
                         </article>
-
-
-
-                        <!--                    Interesting-->
                         <article>
                             <div class="title-ar">
                                 <div class="icon-title">
-                                    <img src="images/target.png">
+                                    <img src="images/target.png" alt="">
                                 </div>
                                 <div class="text-title">
-                                    INTERESTINGS
+                                    <h6>INTERESTINGS</h6>
                                     <div class="gach"></div>
                                 </div>
                             </div>
                             <div class="content-ar interesting">
-                                <img src="images/soccer-ball-variant.png">
-                                <img src="images/web.png">
+                                <img src="images/soccer-ball-variant.png" alt="">
+                                <img src="images/web.png" alt="">
 
-                                <img src="images/icon.png">
-                                <img src="images/paint-palette.png">
-                                <img src="images/video-player.png">
+                                <img src="images/icon.png" alt="">
+                                <img src="images/paint-palette.png" alt="">
+                                <img src="images/video-player.png" alt="">
                             </div>
                         </article>
                     </section>
@@ -307,11 +286,11 @@
                                 </div>
 
                                 <ul>
-                                    <p id="profile">CONTACT</p>
+                                    <li id="profile">CONTACT</li>
 
                                     <li>
                                         <div class="icon-info">
-                                            <img src="images/location-cursor.png">
+                                            <img src="images/location-cursor.png" alt="">
                                         </div>
                                         <div class="detail">
                                             <h3>ADDRESS:</h3>
@@ -320,7 +299,7 @@
                                     </li>
                                     <li>
                                         <div class="icon-info">
-                                            <img src="images/envelope.png">
+                                            <img src="images/envelope.png" alt="">
                                         </div>
                                         <div class="detail">
                                             <h3>EMAIL:</h3>
@@ -329,7 +308,7 @@
                                     </li>
                                     <li>
                                         <div class="icon-info">
-                                            <img src="images/call-answer.png">
+                                            <img src="images/call-answer.png" alt="">
                                         </div>
                                         <div class="detail">
                                             <h3>PHONE:</h3>

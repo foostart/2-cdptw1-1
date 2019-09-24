@@ -51,7 +51,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div class="smart-search">
                             <div class="select-category">
                                 <button class="btn-collapse" type="button" data-toggle="collapse" data-target="#collap" aria-expanded="false">
-                                    <a href="#" class="category-toggle-link">All Categories</a>
+                                    <span class="category-toggle-link">All Categories</span>
                                     <i class="fa fa-angle-down" aria-hidden="true"></i>
                                 </button>
                                 <ul id="collap" class="list-category-toggle sub-menu-top collapse" style="">
@@ -120,14 +120,14 @@ $url_path = str_replace('\\', '/', $url_path);
                             <li class="">
                                 <a href="#">Fashion
                                     <img width="20" height="19" src="#" class="attachment-full size-full" alt="">
-                                    <img width="20" height="19" src="" class="attachment-full size-full" alt="">
+                                    <img width="20" height="19" src="#" class="attachment-full size-full" alt="">
                                 </a>
 
                             </li>
                             <li class="has-cat-mega">
                                 <a href="#">Food
-                                    <img width="20" height="21" src="#" class="attachment-full size-full" alt="">
-                                    <img width="20" height="21" src="" class="attachment-full size-full" alt="">
+                                    <img width="20" height="21" src="images/logo-top.png" class="attachment-full size-full" alt="">
+                                    <img width="20" height="21" src="images/banner-header.jpg" class="attachment-full size-full" alt="">
                                 </a>
                             </li>
                         </ul>
@@ -141,8 +141,8 @@ $url_path = str_replace('\\', '/', $url_path);
                         </span>
                         <div class="menumobile">
                             <div class="col-md-12 col-sm-12 col-xs-2 mmcontext">
-                                <ul class="" id="collap">
-                                    <!--Item Home-->
+                                <ul class="">
+                                    <!--Item Home-->             
                                     <li>
                                         <div class="title">
                                             <a href="#">HOME <i class="fa fa-angle-down" aria-hidden="true"></i></a>
